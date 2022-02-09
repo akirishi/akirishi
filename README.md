@@ -1,3 +1,3 @@
 - 👋 Oi, sou akirishi
 - 👀 Estou interessado em conhecer novas tecnologias e seguir carreira em algo relacionado a produção de código como ?Ciência da Computação?
-- 🌱 Estou atualmente aprendendo minhas primeiras linguagens de programação, já dei uma olhada em Python, MySQL e PHP, mas estou focado agora em HTML5, CSS3 e JavaScript
+- 🌱 Estou atualmente aprendendo minhas primeiras linguagens de programação, já dei uma olhada em Python(que escolhi como linguagem principal), MySQL, PHP, HTML5, CSS3 e JavaScript
